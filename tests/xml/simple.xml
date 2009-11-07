@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<foo type="yeah">
+		here's text
+		<wufoo name="yeah!!">yep!</wufoo>
+		<ugh />
+		more text
+	</foo>
+	<foo type="onemore">
+		i am another foo
+	</foo>
+	<bacon:strip name="porky" face="orange">
+		delicious!
+		<crunchfactor>15</crunchfactor>
+		crunchy, too!
+	</bacon:strip>
+	<foo type="yeehaw">
+		i am YET ANOTHER foo!....!
+	</foo>
+	<selfclosing wee="woo" agh="argh" />
+</root>

@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:thr="http://purl.org/syndication/thread/1.0">
+    <title>Overcoming Bias</title>
+    <link rel="self" type="application/atom+xml" href="http://www.overcomingbias.com/atom.xml" />
+    <link rel="alternate" type="text/html" href="http://www.overcomingbias.com/" />
+    <id>tag:typepad.com,2003:weblog-549792</id>
+    <updated>2009-01-18T04:03:29-05:00</updated>
+    <subtitle>A forum for those serious about trying to overcome their own biases in beliefs and actions. </subtitle>
+    <generator uri="http://www.typepad.com/">TypePad</generator>
+    <entry>
+        <title>In Praise of Boredom</title>
+        <link rel="alternate" type="text/html" href="http://www.overcomingbias.com/2009/01/boredom.html" />
+        <link rel="replies" type="text/html" href="http://www.overcomingbias.com/2009/01/boredom.html" thr:count="11" thr:updated="2009-01-18T12:21:05-05:00" />
+        <id>tag:typepad.com,2003:post-61530602</id>
+        <published>2009-01-18T04:03:29-05:00</published>
+        <updated>2009-01-18T12:21:05-05:00</updated>
+        <summary>Previously in series: Seduced by ImaginationIf I were to make a short list of the most important human qualities -- and yes, this is a fool&#39;s errand, because human nature is immensely complicated, and we don&#39;t even notice all the...</summary>
+        <author>
+            <name>Eliezer Yudkowsky</name>
+        </author>
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Future" />
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Morality" />
+        
+        
+
+<content type="xhtml" xml:lang="en-US" xml:base="http://www.overcomingbias.com/">
+<div xmlns="http://www.w3.org/1999/xhtml"><p><strong>Previously in series</strong>:&#0160; <a href="http://www.overcomingbias.com/2009/01/souleating-dreams.html">Seduced by Imagination</a><a href="http://www.overcomingbias.com/2007/11/complex-wishes.html"></a></p><p>If I were to make a short list of the <em>most</em> important human qualities -</p><p>- and yes, this is a fool&#39;s errand, because human nature is <a href="http://www.overcomingbias.com/2007/11/thou-art-godsha.html">immensely complicated</a>, and we <a href="http://www.overcomingbias.com/2007/11/complex-wishes.html">don&#39;t even notice all the tiny tweaks</a> that fine-tune our <a href="http://www.overcomingbias.com/2008/08/unnatural-categ.html">moral categories</a>, and <a href="http://www.overcomingbias.com/2009/01/growing-up-is-hard.html">who knows</a> how our attractors would change shape if we eliminated a single human emotion -</p><p>- but even so, if I had to point to just a few things and say, &quot;If you lose just one of these things, you lose most of the expected value of the Future; but conversely if an alien species <a href="http://www.overcomingbias.com/2008/07/humans-in-funny.html">independently evolved</a> just these few things, we might even want to be friends&quot; -</p><p>- then the top three items on the list would be sympathy, boredom and consciousness.<em><br /></em></p><p>Boredom is a subtle-splendored thing.&#0160; You wouldn&#39;t want to get bored with breathing, for example - even though it&#39;s the same motions over and over and over and over again for minutes and hours and years and decades.</p><p>Now I know some of you out there are thinking, &quot;Actually, I&#39;m quite bored with breathing and I wish I didn&#39;t have to,&quot; but <em>then </em>you wouldn&#39;t want to get bored with switching transistors.</p><p>According to the human value of boredom, some things are allowed to be highly repetitive <em>without</em> being boring - like obeying the same laws of physics every day.</p><p>Conversely, other repetitions <em>are</em> supposed to be boring, like playing the same level of Super Mario Brothers over and over and over again until the end of time.&#0160; And let us note that if the pixels in the game level have a <em>slightly different color</em> each time, that is <em>not</em> sufficient to prevent it from being &quot;<em>the same damn thing</em>, over and over and over again&quot;.</p><p>Once you take a closer look, it turns out that boredom is quite interesting.</p>
+
+<p></p><p>One of the key elements of boredom was suggested in &quot;<a href="http://www.overcomingbias.com/2008/12/complex-novelty.html">Complex Novelty</a>&quot;:&#0160; If your activity isn&#39;t <em>teaching </em>you insights you didn&#39;t already know, then it is <em>non-novel,</em> therefore old, therefore boring.</p><p>But this doesn&#39;t quite cover the distinction.&#0160; Is breathing teaching you anything?&#0160; Probably not at this moment, but you wouldn&#39;t want to stop breathing.&#0160; Maybe you&#39;d want to <em>stop noticing</em> your breathing, which you&#39;ll do as soon as I stop drawing your attention to it.</p><p>I&#39;d suggest that the repetitive activities which are allowed to <em>not</em> be boring fall into two categories:</p><ul>
+
+<li>Things so extremely low-level, or with such a small volume of possibilities, that you couldn&#39;t avoid repeating them even if you tried; but which are required to support other non-boring activities.&#0160; You know, like breathing, or obeying the laws of physics, or cell division - that sort of thing.</li>
+<li>Things so high-level that their &quot;stability&quot; still implies an immense space of specific possibilities, yet which are tied up with our identity or our values.&#0160; Like thinking, for example.</li>
+</ul>
+<p>Let me talk about that second category:</p><p>Suppose you were unraveling the true laws of physics and discovering all sorts of neat stuff you hadn&#39;t known before... when suddenly you got <em>bored</em> with &quot;changing your beliefs based on observation&quot;.&#0160; You are sick of anything resembling &quot;Bayesian updating&quot; - it feels like playing the same video game over and over.&#0160; Instead you decide to believe anything said on 4chan.</p><p>Or to put it another way, suppose that you were something like a sentient chessplayer - a sentient version of Deep Blue.&#0160; Like a modern human, you have <em>no introspective access</em> to your own algorithms.&#0160; Each chess game appears different - you play new opponents and steer into new positions, composing new strategies, avoiding new enemy gambits.&#0160; You are content, and not at all bored; you never <em>appear to yourself</em> to be doing the same thing twice - it&#39;s a different chess game each time.</p><p>But now, suddenly, you gain access to, and understanding of, your own chess-playing program.&#0160; Not just the raw code; you can monitor its execution.&#0160; You can see that it&#39;s actually <em>the same damn code, doing the same damn thing,</em> over and over and over again.&#0160; Run the same damn position evaluator.&#0160; Run the same damn sorting algorithm to order the branches.&#0160; Pick the top branch, again.&#0160; Extend it one position forward, again.&#0160; Call the same damn subroutine and start over.</p><p>I have a small unreasonable fear, somewhere in the back of my mind, that if I ever do fully understand the algorithms of intelligence, it will destroy all remaining novelty - no matter what new situation I encounter, I&#39;ll know I can solve it just by <em>being intelligent,</em> the same damn thing over and over.&#0160; All novelty will be used up, all existence will become boring, the remaining differences no more important than shades of pixels in a video game.&#0160; Other beings will go about in blissful unawareness, having been steered away from studying this forbidden cognitive science.&#0160; But I, having already thrown myself on the grenade of AI, will face a choice between eternal boredom, or excision of my forbidden knowledge and all the memories leading up to it (thereby destroying my existence as Eliezer, more or less).</p><p>Now this, mind you, is not my predictive line of maximum probability.&#0160; To understand abstractly what rough sort of work the brain is doing, doesn&#39;t let you monitor its detailed execution as a boring repetition.&#0160; I already know about Bayesian updating, yet I haven&#39;t become bored
+with the act of learning.&#0160; And a self-editing mind can quite reasonably
+exclude certain levels of introspection from boredom, just like
+breathing can be legitimately excluded from boredom.&#0160; (Maybe these top-level cognitive algorithms ought also to be excluded from perception - if something is stable, why bother seeing it all the time?)</p><p>No, it&#39;s just a cute little nightmare, which I thought made a nice illustration of this proposed principle:</p><p>That the very top-level things (like Bayesian updating, or attaching value to sentient minds rather than paperclips) and the very low-level things (like breathing, or switching transistors) are the things we shouldn&#39;t get bored with.&#0160; And the mid-level things between, are where we should seek <a href="http://www.overcomingbias.com/2008/12/complex-novelty.html">novelty</a>.&#0160; (To a first approximation, the novel is the inverse of the learned; it&#39;s something with a learnable element not yet covered by previous insights.)</p><p>Now this is probably not <em>exactly</em> how our <em>current </em>emotional circuitry of boredom works.&#0160; That, I expect, would be hardwired relative to various sensory-level definitions of predictability, surprisingness, repetition, attentional salience, and perceived effortfulness.</p><p>But this is Fun Theory, so we are mainly concerned with how boredom <em>should</em> work in the long run.</p><p>Humanity acquired boredom the same way as we acquired the rest of our emotions: the <a href="http://www.overcomingbias.com/2007/11/thou-art-godsha.html">godshatter</a> idiom whereby evolution&#39;s instrumental policies became our own terminal values, pursued <a href="http://www.overcomingbias.com/2007/11/terminal-values.html">for their own sake</a>: <a href="http://www.overcomingbias.com/2007/11/adaptation-exec.html">sex is fun even if you use birth control</a>.&#0160; Evolved aliens might, or might not, acquire roughly the same boredom in roughly the same way.</p><p>Do not give into the temptation of <a href="http://www.overcomingbias.com/2008/06/no-universally.html">universalizing</a> <a href="http://www.overcomingbias.com/2008/07/humans-in-funny.html">anthropomorphic</a> <a href="http://www.overcomingbias.com/2008/08/magical-categor.html">values</a>, and think:&#0160; &quot;But any rational agent, regardless of its utility function, will face the <em>exploration/exploitation tradeoff,</em> and will therefore occasionally get bored with exploiting, and go exploring.&quot;</p><p>Our emotion of boredom is <em>a</em> way of exploring, but not the <em>only </em>way for an ideal optimizing agent.</p><p>The idea of a <em>steady trickle of mid-level novelty</em> is a human
+
+<a href="http://www.overcomingbias.com/2007/11/terminal-values.html">terminal value</a>, not something we do for the sake of something else.&#0160;
+Evolution might have originally given it to us in order to have us explore as well as exploit.&#0160; But now we explore for its own sake.&#0160; That
+steady trickle of novelty is a terminal value to us; it is not the <em>most</em> efficient instrumental method for exploring and exploiting.</p><p>Suppose you were dealing with something like an <a href="http://www.overcomingbias.com/2008/09/true-pd.html">expected paperclip maximizer</a> - something that might use quite complicated instrumental policies, but in the service of a utility function that we would regard as simple, with a single term compactly defined.</p><p>Then I would expect the exploration/exploitation tradeoff to go something like as follows:&#0160; The paperclip maximizer would assign some resources to cognition that searched for more efficient ways to make paperclips, or harvest resources from stars.&#0160; Other resources would be devoted to the actual harvesting and paperclip-making.&#0160; (The paperclip-making might not start until after a long phase of harvesting.)&#0160; At every point, the most efficient method yet discovered - for resource-harvesting, or paperclip-making - would be used, over and over and over again.&#0160; It wouldn&#39;t be <em>boring,</em> just maximally instrumentally efficient.</p><p>In the beginning, lots of resources would go into preparing for efficient work over the rest of time.&#0160; But as cognitive resources yielded diminishing returns in the abstract search for efficiency improvements, less and less time would be spent thinking, and more and more time spent creating paperclips.&#0160; By whatever the most efficient known method, over and over and over again.</p><p>(Do human beings get <em>less </em>easily bored as we grow older, <em>more tolerant</em> of repetition, because any further discoveries are less valuable, because we have less time left to exploit them?)</p><p>If we run into aliens who don&#39;t share <em>our </em>version of boredom - a steady trickle of mid-level novelty as a terminal preference - then perhaps every alien throughout their civilization will just be playing the most exciting level of the most exciting video game ever discovered, over and over and over again.&#0160; Maybe with <a href="http://www.overcomingbias.com/2008/12/unpersons.html">nonsentient AIs</a> taking on the <em>drudgework </em>of searching for a more exciting video game.&#0160; After all, without an inherent preference for novelty, exploratory attempts will usually have less expected value than exploiting the best policy previously encountered.&#0160; And that&#39;s if you explore by trial at all, as opposed to using more abstract and efficient thinking.</p><p>Or if the aliens are rendered non-bored by seeing pixels of a slightly different shade - if their definition of <em>sameness </em>is more specific than ours, and their <em>boredom</em> less general - then from our perspective, most of their civilization will be doing the human::same thing over and over again, and hence, be very human::boring.</p><p>Or maybe if the aliens have no fear of life becoming too simple and repetitive, they&#39;ll just collapse themselves into orgasmium.</p><p>And if <em>our</em> version of boredom is less strict than that of the aliens, maybe they&#39;d take one look at one day in the life of one member of our civilization, and never bother looking at the rest of us.&#0160; From our perspective, their civilization would be needlessly chaotic, and so entropic, lower in what we regard as quality; they wouldn&#39;t play the same game for long enough to get good at it.</p><p>But if our versions of boredom are similar <em>enough </em>- terminal preference for a stream of mid-level novelty defined relative to <a href="http://www.overcomingbias.com/2008/12/complex-novelty.html">learning insights not previously possessed</a> - then we might find our civilizations mutually worthy of tourism.&#0160; Each new piece of alien art would strike us as <a href="http://www.overcomingbias.com/2008/11/lawful-creativi.html">lawfully creative</a>, high-quality according to a recognizable criterion, yet not like the other art we&#39;ve already seen.</p><p>It is one of the things that would make our two species <em>ramen </em>rather than <em>varelse</em>, to invoke the Hierarchy of Exclusion.&#0160; And I&#39;ve never seen anyone define those two terms well, including Orson Scott Card who invented them; but it might be something like &quot;aliens you can get along with, versus aliens for which there is no reason to bother trying&quot;.</p><p></p></div>
+
+</content>
+
+
+    </entry>
+    <entry>
+        <title>Beware Detached Detail</title>
+        <link rel="alternate" type="text/html" href="http://www.overcomingbias.com/2009/01/beware-detached-detail.html" />
+        <link rel="replies" type="text/html" href="http://www.overcomingbias.com/2009/01/beware-detached-detail.html" thr:count="6" thr:updated="2009-01-18T09:21:46-05:00" />
+        <id>tag:typepad.com,2003:post-61531546</id>
+        <published>2009-01-17T21:15:00-05:00</published>
+        <updated>2009-01-18T09:21:46-05:00</updated>
+        <summary>Yesterday I talked about how &quot;social minds must both make good decisions, and present good images to others&quot; and suggested &quot;the near-far brain division can be handy when facing this problem; let the far system focus more on image, and...</summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Hypocrisy" />
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Psychology" />
+        
+        
+
+<content type="xhtml" xml:lang="en-US" xml:base="http://www.overcomingbias.com/">
+<div xmlns="http://www.w3.org/1999/xhtml"><p>Yesterday <a href="http://www.overcomingbias.com/2009/01/a-tale-of-two-tradeoffs.html">I talked about</a> how &quot;social minds must both make good decisions, <em>and</em> present good images to others&quot; and suggested &quot;the near-far brain division can be handy when facing this problem; let the far system focus more on image, and the near system focus more on decisions.&quot; But I didn&#39;t follow this thought very far down the game tree. To an economist going down the game tree is like going down the rabbit hole; it shows us just how deep and strange are the underlying drivers of top behavior. </p><p>If our far thoughts are more distorted to present good images, then the next step down the rabbit hole is this: to judge how we will typically act, others should prefer to see our near thoughts, at least if they can distinguish near versus far thoughts. After all, near thoughts drive most day to day actions. And we should each look more to our own near thoughts to judge our own sincerity. 
+
+</p><p>Once we evolved to weigh near others&#39; thoughts more heavily, the next step would be to look for cheap ways to have good-looking near-thoughts, without paying the full price of distorting important actions. That is, our mind designer would look for ways to show &quot;detached&quot; near thoughts, consistent with good-image far-thoughts, but not actually impacting much on important near decisions. This could be accomplished by vivid engaging detail that can clearly occupy our near thought systems, but which isn&#39;t much connected to substantial personal decisions. 
+
+
+</p>
+
+<p>For example, abstract religious beliefs are usually tied to specific concrete, but largely irrelevant, details. The gods and prophets have names and birth-dates and stories of who did what when. Churches have pictures and idols people and events, and religious rituals are full of rich sensory details, like incense, plush materials, stained-glass windows, and angelic singing. Daily routines regarding what to eat and when to pray and what to wear all let you show how much near thought there is in your religious thought.&#0160; Of course most of these details hardly matter to your important decisions; they let you assure yourself you will be a good Samaritan, without actually much influencing whether you <em>be </em>a good Samaritan. 
+
+</p><p>Similarly, fiction lets us tie lots of concrete detail to our abstract social beliefs about what sorts of people are good or bad, who helps who how much, and which of them tend to win in the end.&#0160; Stories presented as plays, movies, or video games have especially rich sensory detail, to give us experiences not just of abstracting having certain far reactions, but of having our near systems fully engaged and in agreement with our far expectations of what one should do in various situations. 
+
+</p><p>A movie can let you feel not only that people in distant times and places should fight Nazis or free slaves, but that if you were actually in such situations with near systems fully engaged, you would actually do such things. But of course since the movie&#39;s scenario has little overlap with your real life, there is little risk that near habits acquired would interfere with your usual near actions. You rarely watch movies about, say, helping poor neighbors or illegal immigrants, since those stories are less detached from your ordinary life.&#0160; There is a reason they call it &quot;escapism,&quot; after all.
+
+</p><p>This detached detail dodge may <a href="http://www.overcomingbias.com/2009/01/a-tale-of-two-tradeoffs.html#comment-145346694">explain why</a> inside views seem worse at schedule forecasting than outside views.&#0160; Yes inside-view schedulers consider more detail that engages near mental systems, but I suspect this is mostly detached detail, driven as with fiction detail more by far thought agendas than by consistency with relevant personal detail.&#0160; Little girls may imagine their future wedding in vivid detail, without that being much constrained by actual weddings they have seen. 
+
+
+</p><p>Don&#39;t assure yourself that your vivid near thoughts mean you are being more realistic, if those vivid thoughts are little connected with real personal experience. It might just be detached detail, there more to flesh out far thoughts than to advise important decisions. When you stand at a real street corner looking to see if it is safe to cross, that is attached detail; when you imagine being tempted by a grinning ten foot devil after fasting for weeks in the hot red desert, that is detached detail. </p></div>
+</content>
+
+
+    </entry>
+    <entry>
+        <title>Getting Nearer</title>
+        <link rel="alternate" type="text/html" href="http://www.overcomingbias.com/2009/01/getting-nearer.html" />
+        <link rel="replies" type="text/html" href="http://www.overcomingbias.com/2009/01/getting-nearer.html" thr:count="11" thr:updated="2009-01-18T12:29:54-05:00" />
+        <id>tag:typepad.com,2003:post-61505446</id>
+        <published>2009-01-17T04:28:54-05:00</published>
+        <updated>2009-01-18T12:29:54-05:00</updated>
+        <summary>Reply to: A Tale Of Two TradeoffsI&#39;m not comfortable with compliments of the direct, personal sort, the &quot;Oh, you&#39;re such a nice person!&quot; type stuff that nice people are able to say with a straight face. Even if it would...</summary>
+        <author>
+            <name>Eliezer Yudkowsky</name>
+        </author>
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Psychology" />
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Self-Deception" />
+        
+        
+
+<content type="xhtml" xml:lang="en-US" xml:base="http://www.overcomingbias.com/">
+<div xmlns="http://www.w3.org/1999/xhtml"><p><strong>Reply to</strong>:&#0160; <a href="http://www.overcomingbias.com/2009/01/a-tale-of-two-tradeoffs.html">A Tale Of Two Tradeoffs</a></p><p>I&#39;m not comfortable with compliments of the direct, personal sort, the &quot;Oh, you&#39;re such a nice person!&quot; type stuff that nice people are able to say with a straight face.&#0160; Even if it would make people like me more - even if it&#39;s socially expected - I have trouble bringing myself to do it.&#0160; So, when I say that I read Robin Hanson&#39;s &quot;Tale of Two Tradeoffs&quot;, and then realized I would spend the rest of my mortal existence typing thought processes as &quot;Near&quot; or &quot;Far&quot;, I hope this statement is received as a due substitute for any gushing compliments that a normal person would give at this point.</p><p>Among other things, this clears up a major puzzle that&#39;s been lingering in the back of my mind for a while now.&#0160; Growing up as a rationalist, I was always telling myself to &quot;Visualize!&quot; or &quot;Reason by simulation, <a href="http://www.overcomingbias.com/2008/11/failure-by-anal.html">not by analogy</a>!&quot; or &quot;Use causal models, not similarity groups!&quot;&#0160; And those who ignored this principle seemed easy prey to <a href="http://www.overcomingbias.com/2007/12/affective-death.html">blind enthusiasms</a>, wherein one says that <a href="http://www.overcomingbias.com/2008/11/affective-analo.html">A is good because it is like B which is also good</a>, and the like.</p><p>But later, I learned about the <a href="http://www.overcomingbias.com/2007/09/planning-fallac.html">Outside View versus the Inside View</a>, and that people asking &quot;What rough class does this project fit into, and when did projects like this finish last time?&quot; were much more accurate and much less optimistic than people who tried to visualize the when, where, and how of their projects.&#0160; And this didn&#39;t seem to fit very well with my injunction to &quot;Visualize!&quot;</p><p>So <em>now</em> I think I understand what this principle was actually doing - it was keeping me in Near-side mode and away from Far-side thinking.&#0160; And it&#39;s not that Near-side mode works so well in any absolute sense, but that Far-side mode is so much more pushed-on by ideology and wishful thinking, and so <em>casual</em> in accepting its conclusions (devoting less computing power before halting).</p>
+
+<p>An example of this might be the balance between offensive and defensive
+nanotechnology, where I started out by - basically - just <em>liking</em> nanotechnology; until I got involved in a discussion about the particulars of nanowarfare, and noticed that people were postulating
+crazy things to make defense win.&#0160; Which made me realize and say, &quot;Look, the
+balance between offense and defense has been tilted toward offense ever
+since the invention of nuclear weapons, and military nanotech could <em>use</em> nuclear weapons, and I don&#39;t see how you&#39;re going to build a molecular barricade against <em>that</em>.&quot;</p><p>Are the particulars of that discussion likely to be, well, <em>correct?</em>&#0160; Maybe not.&#0160; But so long as I wasn&#39;t thinking of <em>any</em> particulars, my brain had free reign to just... import whatever affective valence the word &quot;nanotechnology&quot; had, and use that as a snap judgment of everything.</p><p>You can still be biased about particulars, of course.&#0160; You can insist that nanotech couldn&#39;t possibly be radiation-hardened enough to manipulate U-235, which someone tried as a response (<em>fyi: this is extremely silly</em>).&#0160; But in my case, at least, something about <em>thinking in particulars</em>...</p><p>...just snapped me out of the trance, somehow.</p><p>When you&#39;re thinking using very abstract categories - rough classes low on computing power - about things distant from you, then you&#39;re also - if Robin&#39;s hypothesis is correct - more subject to ideological bias.&#0160; Together this implies you can cherry-pick those very loose categories to put X together with whatever &quot;similar&quot; Y is ideologically convenient, as in the old saw that &quot;<a href="http://www.overcomingbias.com/2008/03/is-humanism-rel.html">atheism is a religion</a>&quot; (and not playing tennis is a sport).</p><p>But the most frustrating part of all, is the <em>casualness</em> of it - the way that ideologically convenient Far thinking is just thrown together out of whatever ingredients come to hand.&#0160; The <a href="http://www.overcomingbias.com/2008/12/we-agree-get-froze.html">ten-second dismissal of cryonics</a>, without any attempt to visualize how much information is preserved by vitrification and could be retrieved by a molecular-level scan.&#0160; Cryonics just gets casually, perceptually classified as &quot;not scientifically verified&quot; and tossed out the window.&#0160; Or &quot;what if you wake up in Dystopia?&quot; and tossed out the window.&#0160; Far thinking is <em>casual</em> - that&#39;s the most frustrating aspect about trying to argue with it.
+
+</p><p>This seems like an argument for writing fiction with lots of concrete details <em>if you want people to take a subject seriously and think about it in a less biased way</em>.&#0160; This is not something I would have thought based on <a href="http://www.overcomingbias.com/2007/10/fictional-evide.html">my previous view</a>.</p><p>Maybe cryonics advocates really <em>should</em> focus on writing fiction stories that turn on the gory details of cryonics, or viscerally depict the regret of someone who didn&#39;t persuade their mother to sign up.&#0160; (Or offering prizes to professionals who do the same; writing fiction is hard, writing SF is harder.)</p><p>But I&#39;m worried that, for whatever reason, reading concrete fiction is a special case that <em>doesn&#39;t work</em> to get people to do Near-side thinking.</p><p>Or there are <em>some </em>people who are inspired to Near-side thinking by fiction, and only these can actually be helped by reading science fiction.</p><p>Maybe there are people who encounter big concrete detailed fictions process them in a Near way - the sort of people who notice plot holes.&#0160; And others who just &quot;take it all in stride&quot;, casually, so that however much concrete fictional &quot;information&quot; they encounter, they only process it using casual &quot;Far&quot; thinking.&#0160; I wonder if this difference has more to do with upbringing or genetics.&#0160; Either way, it may lie at the core of the partial yet statistically outstanding correlation between careful futurists and science fiction fans.</p><p>I expect I shall be thinking about this for a while.</p></div>
+
+</content>
+
+
+    </entry>
+    <entry>
+        <title>A Tale Of Two Tradeoffs</title>
+        <link rel="alternate" type="text/html" href="http://www.overcomingbias.com/2009/01/a-tale-of-two-tradeoffs.html" />
+        <link rel="replies" type="text/html" href="http://www.overcomingbias.com/2009/01/a-tale-of-two-tradeoffs.html" thr:count="39" thr:updated="2009-01-18T09:46:26-05:00" />
+        <id>tag:typepad.com,2003:post-61445194</id>
+        <published>2009-01-16T06:00:00-05:00</published>
+        <updated>2009-01-18T09:46:26-05:00</updated>
+        <summary>The design of social minds involves two key tradeoffs, which interact in an important way. The first tradeoff is that social minds must both make good decisions, and present good images to others. Our thoughts influence both our actions and...</summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Hypocrisy" />
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Psychology" />
+        
+        
+
+<content type="xhtml" xml:lang="en-US" xml:base="http://www.overcomingbias.com/">
+<div xmlns="http://www.w3.org/1999/xhtml"><p>The design of social minds involves two key tradeoffs, which interact in an important way.</p><p>
+The first tradeoff is that social minds must both make good decisions, <em>and </em>present good images to others.&#0160; Our thoughts influence both our actions and what others think of us.&#0160; It would be expensive to maintain two separate minds for these two purposes, and even then we would have to maintain enough consistency to convince outsiders a good-image mind was in control. It is cheaper and simpler to just have one integrated mind whose thoughts are a compromise between these two ends.</p><p>
+When possible, mind designers should want to adjust this decision-image tradeoff by context, depending on the relative importance of decisions versus images in each context.&#0160; But it might be hard to find cheap effective heuristics saying when images or decisions matter more.</p><p>
+The second key tradeoff is that minds must often think about the same sorts of things using different amounts of detail.&#0160; Detailed representations tend to give more insight, but require more mental resources.&#0160; In contrast, sparse representations require fewer resources, and make it easier to abstractly compare things to each other.&#0160; For example, when reasoning about a room a photo takes more work to study but allows more attention to detail; a word description contains less info but can be processed more quickly, and allows more comparisons to similar rooms.
+
+</p>
+<p>
+It makes sense to have your mental models use more detail when what they model is closer to you in space and time, and closer to you in your social world; such things tend to be more important to you.&#0160; It also makes sense to use more detail for real events over hypothetical ones, for high over low probability events, for trend deviations over trend following, and for thinking about how to do something over why to do it.&#0160; So it makes sense to use detail thinking for &quot;near&quot;, and sparse thinking for &quot;far&quot;, in these ways.&#0160; </p><p>
+It can make sense to have specialized mental systems for these different approaches, i.e., systems best at reasoning from detailed representations, versus systems best at reasoning from sparse abstractions.&#0160; When something became important enough to think about at all you would first use sparse systems, graduating to detail systems when that thing became important enough to justify the added resources.&#0160; Even then you might continue to reason about it using sparse systems, at least if you could sufficiently coordinate the two kinds of systems.</p><p>
+A non-social mind, caring only about good personal decisions, would want consistency between near and far thoughts.&#0160; To be consistent, estimates made by sparse approaches should equal the average of estimates made when both sparse and detail approaches contribute.&#0160; A social mind would also want such consistency when sparse and detail tasks had the same tradeoffs between decisions and images.&#0160; But when these tradeoffs differ, inconsistency can be more attractive.&#0160; </p><p>
+The important interaction between these two key tradeoffs is this: near versus far seems to correlate reasonably well with when good decisions matter more, relative to good images.&#0160; Decision consequences matter less for hypothetical, fictional, and low probability events.&#0160; Social image matters more, relative to decision consequences, for opinions about what I should do in the distant future, or for what they or &quot;we&quot; should do now.&#0160; Others care more about my basic goals than about how exactly I achieve them, and they care especially about my attitudes toward those people.&#0160; Also, widely shared topics are better places to demonstrate mental abilities. </p><p>
+Thus a good cheap heuristic seems to be that image matters more for &quot;far&quot; thoughts, relative to decisions mattering more for &quot;near&quot; thoughts.&#0160; And so it makes sense for social minds to allow inconsistencies between near and far thinking systems.&#0160; Instead of having both systems produce the same average estimates, it can make sense for sparse estimates to better achieve a good image, while detail estimates better achieve good decisions.&#0160; </p><p>
+And this seems to be just what the human mind does.&#0160; The human mind <a href="http://www.overcomingbias.com/2008/11/abstractdistant.html">seems to have</a> different &quot;near&quot; and &quot;far&quot; mental systems, apparently implemented in distinct brain regions, for detail versus abstract reasoning.&#0160; Activating one of these systems on a topic for any reason makes other activations of that system on that topic more likely; all near thinking tends to evoke other near thinking, while all far thinking tends to evoke other far thinking.&#0160; </p><p>
+These different human mental systems tend to be inconsistent in giving systematically different estimates to the same questions, and these inconsistencies seem too strong and patterned to be all accidental.&#0160; Our concrete day-to-day decisions rely more on near thinking, while our professed basic values and social opinions, especially regarding fiction, rely more on far thinking.&#0160; Near thinking better helps us work out complex details of how to actually get things done, while far thinking better presents our identity and values to others.&#0160; Of course we aren&#39;t very aware of this hypocrisy, as that would undermine its purpose; so we habitually assume near and far thoughts are more consistent than they are.&#0160; </p><p>
+These near-far inconsistencies seems to me to reasonably explain puzzles like:</p><ul>
+
+<li>
+we value particular foreign-born associates, but oppose foreign immigration</li>
+<li>
+we say we want to lose weight, but actually don&#39;t exercise more or eat less</li>
+<li>
+we say we care about distant future folk, but don&#39;t save money for them</li>
+</ul>
+<p>
+So which of near or far thinking is our &quot;true&quot; thinking?&#0160; Perhaps neither; perhaps we really contain an essential contradiction, which we don&#39;t want to admit, much less resolve. </p><p><strong>Added:</strong>&#0160; The key puzzle I&#39;m trying to address here is the fact that <em>hypocrisy is hard</em>.&#0160; It is hard enough to manage a mind with coherent opinions across a wide range of topics.&#0160; To manage two coherent systems of opinions, one for decisions and one for image, and then only let them differ where others can&#39;t see, that seems really hard.&#0160; I&#39;m saying the near-far brain division can be handy when facing this problem; let the far system focus more on image, and the near system focus more on decisions.</p></div>
+
+</content>
+
+
+    </entry>
+    <entry>
+        <title>Seduced by Imagination</title>
+        <link rel="alternate" type="text/html" href="http://www.overcomingbias.com/2009/01/souleating-dreams.html" />
+        <link rel="replies" type="text/html" href="http://www.overcomingbias.com/2009/01/souleating-dreams.html" thr:count="11" thr:updated="2009-01-17T14:14:36-05:00" />
+        <id>tag:typepad.com,2003:post-61450634</id>
+        <published>2009-01-15T22:10:22-05:00</published>
+        <updated>2009-01-17T14:14:36-05:00</updated>
+        <summary>Previously in series: Justified Expectation of Pleasant Surprises&quot;Vagueness&quot; usually has a bad name in rationality - connoting skipped steps in reasoning and attempts to avoid falsification. But a rational view of the Future should be vague, because the information we...</summary>
+        <author>
+            <name>Eliezer Yudkowsky</name>
+        </author>
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Future" />
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Psychology" />
+        
+        
+
+<content type="xhtml" xml:lang="en-US" xml:base="http://www.overcomingbias.com/">
+<div xmlns="http://www.w3.org/1999/xhtml"><p><strong>Previously in series</strong>:&#0160; <a href="http://www.overcomingbias.com/2009/01/vague-hopes.html">Justified Expectation of Pleasant Surprises</a></p><p>&quot;Vagueness&quot; usually has a <a href="http://www.overcomingbias.com/2007/08/the-virtue-of-n.html">bad name</a> in rationality - connoting skipped steps in reasoning and attempts to <a href="http://www.overcomingbias.com/2007/07/belief-in-belie.html">avoid falsification</a>.&#0160; But a rational view of the Future <em>should </em><span style="text-decoration: underline;"></span>be vague, because the information we have about the Future is <a href="http://www.overcomingbias.com/2008/11/the-weak-inside.html">weak</a>.&#0160; Yesterday I argued that <a href="http://www.overcomingbias.com/2009/01/vague-hopes.html">justified vague hopes</a> might also be better <em>hedonically</em> than specific foreknowledge - the power of pleasant surprises.</p><p>But there&#39;s also a more severe warning that I must deliver:&#0160; It&#39;s not a good idea to dwell much <em>on</em> imagined pleasant futures, since you can&#39;t actually dwell <em>in </em>them.&#0160; It can suck the emotional energy out of your actual, current, ongoing life.</p><p>Epistemically, we know the Past much more <em>specifically </em>than the Future.&#0160; But also on <span style="font-style: italic;"></span><em>emotional</em> grounds, it&#39;s probably wiser to compare yourself to Earth&#39;s past, so you can see how far we&#39;ve come, and how much better we&#39;re doing.&#0160; Rather than comparing your life to an imagined future, and thinking about how awful you&#39;ve got it Now.</p><p>Having set out to explain George Orwell&#39;s observation that <a href="http://www.orwell.ru/library/articles/socialists/english/e_fun">no one can seem to write about a Utopia where anyone would want to live</a> - having laid out the various Laws of Fun that I believe are being <em>violated </em>in these dreary Heavens - I am now explaining why you <em>shouldn&#39;t</em> apply this knowledge to invent an extremely seductive Utopia and write stories set there.&#0160; That may suck out your soul like an emotional vacuum cleaner.
+
+</p>
+<p>I briefly remarked on this phenomenon <a href="http://www.overcomingbias.com/2009/01/scary-eutopia.html">earlier</a>, and someone said, &quot;Define &#39;suck out your soul&#39;.&quot;&#0160; Well, it&#39;s mainly a tactile thing: you can practically <em>feel </em>the pulling sensation, if your dreams wander too far into the Future.&#0160; It&#39;s like something out of H. P. Lovecraft:&#0160; <em>The Call of Eutopia.</em>&#0160; A professional hazard of having to stare out into vistas that <em>humans were meant to gaze upon</em>, and knowing <em>a little too much</em> about the lighter side of existence.</p><p>But for the record, I will now lay out the components of &quot;soul-sucking&quot;, that you may recognize the bright abyss and steer your thoughts away:</p><ul>
+
+<li>Your emotional energy drains away into your imagination of Paradise:<ul>
+<li>You find yourself thinking of it more and more often.</li>
+<li>The actual challenges of your current existence start to seem less interesting, less compelling; you think of them less and less.</li>
+<li>Comparing everything to your imagined perfect world heightens your annoyances and diminishes your pleasures.</li>
+</ul>
+</li>
+<li>You go into an <a href="http://www.overcomingbias.com/2007/12/affective-death.html">affective death spiral</a> around your imagined scenario; you&#39;re reluctant to admit anything bad could happen on your assumptions, and you find more and more nice things to say.</li>
+<li>Your mind begins to forget the difference between fiction and real
+life:<ul>
+
+<li>You originally made many arbitrary or iffy choices in constructing
+your scenario.&#0160; You forget that the Future is actually more
+unpredictable than this, and that you made your choices using limited
+foresight and merely human optimizing ability.</li>
+<li>You forget that, in real life, at least <em>some </em>of your amazing good ideas are <em>guaranteed </em>not to work as well as they do in your imagination.</li>
+<li>You start wanting the <em>exact specific</em> Paradise you imagined, and worrying about the disappointment if you don&#39;t get that <em>exact</em> thing.</li>
+</ul>
+
+</li>
+</ul>
+<p>Hope can be a dangerous thing.&#0160; And when you&#39;ve just been hit hard - at the moment when you most <em>need</em>
+hope to keep you going - that&#39;s also when the real world seems most
+painful, and the world of imagination becomes most seductive.</p><p>It&#39;s a balancing act, I think.&#0160; One needs enough Fun Theory to truly and legitimately justify hope in the future.&#0160; But not a detailed vision so seductive that it steals emotional energy from the real life and real challenge of creating that future.&#0160; You need &quot;a light at the end of the secular rationalist tunnel&quot; as <a href="http://www.overcomingbias.com/2009/01/better-and-better.html#comment-144803018">Roko put it</a>, but you don&#39;t want people to drift away from their bodies into that light.</p><p>So <em>how much</em> light is that, exactly?&#0160; Ah, now that&#39;s the issue.</p><p>I&#39;ll start with a simple and genuine question:&#0160; Is what I&#39;ve already said, enough?</p><p>Is knowing the abstract fun theory and being able to pinpoint the exact flaws in previous flawed Utopias, enough to make you look forward to tomorrow?&#0160; Is it enough to inspire a stronger will to live?&#0160; To dispel worries about a long dark tea-time of the soul?&#0160; Does it now seem - on a gut level - that if we could really build an AI and really shape it, the resulting future would be very much worth staying alive to see?</p></div>
+
+</content>
+
+
+    </entry>
+    <entry>
+        <title>Data On Fictional Lies</title>
+        <link rel="alternate" type="text/html" href="http://www.overcomingbias.com/2009/01/new-data-on-fiction.html" />
+        <link rel="replies" type="text/html" href="http://www.overcomingbias.com/2009/01/new-data-on-fiction.html" thr:count="13" thr:updated="2009-01-17T12:57:57-05:00" />
+        <id>tag:typepad.com,2003:post-61383844</id>
+        <published>2009-01-15T06:00:00-05:00</published>
+        <updated>2009-01-17T12:57:58-05:00</updated>
+        <summary>A speculator paper analyses a dataset of 519 Victorian literature experts describing 382 characters from 201 canonical British novels of the nineteenth century. Characters were described by gender, as major or minor, as good or bad, by role (protagonist, antagonist,...</summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Arts" />
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Psychology" />
+        
+        
+
+<content type="xhtml" xml:lang="en-US" xml:base="http://www.overcomingbias.com/">
+<div xmlns="http://www.w3.org/1999/xhtml"><p>A <a href="http://www.epjournal.net/filestore/ep06715738.pdf">speculator paper</a> analyses a dataset of 519 Victorian literature experts describing 382 characters from 201 canonical British novels of the nineteenth century.&#0160; Characters were described by gender, as major or minor, as good or bad, by role (protagonist, antagonist, friend of p, friend of a, or other), by a five factor personality type (from a ten-question instrument), as their (5-point-scale) degree of twelve different motives (converted to five factors: social dominance, constructive effort, romance, nurture, subsistence), and as the degree of ten different emotions they arouse in readers (converted to three factors: dislike, sorrow, interest). Experts agreed 87% of the time.&#0160; They found:</p>
+<div style="margin-left: 40px;">Antagonists virtually personify Social Dominance - the self-interested pursuit of wealth, prestige, and power. In these novels, those ambitions are sharply segregated from prosocial and culturally acquisitive dispositions. Antagonists are not only selfish and unfriendly but also undisciplined, emotionally unstable, and intellectually dull. Protagonists, in contrast, display motive dispositions and personality traits that exemplify strong personal development and healthy social adjustment. Protagonists are agreeable, conscientious, emotionally stable, and open to experience. ... The male protagonists in this study are relatively moderate, mild characters. They are introverted and agreeable, and they do not seek to dominate others socially. They are pleasant and conscientious, and they are also curious and alert. They are attractive characters, but they are not very assertive or aggressive characters. ...<br />
+</div>
+<p style="margin-left: 40px;">In <em>Hierarchy in the Forest: The Evolution of Egalitarian Behavior</em>, Boehm (1999)... argues that ... humans developed a special capacity, ... for enforcing moralistic or altruistic norms. By enforcing these norms, humans succeed in controlling &quot;free riders&quot; or &quot;cheaters,&quot; and they thus make it possible for genuinely altruistic genes to survive within a social group. Such altruistic dispositions, enforced by punishing defectors, would enable social groups to compete more successfully against other groups and would thus make &quot;group selection&quot; or &quot;multi-level selection&quot; an effective force in subsequent human evolution. ... </p><p style="margin-left: 40px;">If Boehm and others are correct, ... by derogating dominance and enacting the triumph of the communitarian ethos, ... agonistic structure in the novels would articulate real features of human nature, but like culture in general, the novels would exaggerate the magnitude of those features.&#0160; Agonistic structure in these novels seems to serve as a medium for readers to participate vicariously in an egalitarian social ethos. ... as prosthetic extensions of social interactions that in non-literate cultures require face-to-face interaction. ...</p><p style="margin-left: 40px;">
+Could it not plausibly be argued that the novels merely depict social dynamics as they actually occur in the real world? If that were the case, one would have no reason to suppose that the novels mediate psychological processes in the community of readers. The novels might merely serve readers&#39; need to gain realistic information about the larger patterns of social life. To assess the cogency of this challenge, consider the large-scale patterns revealed in the present study and ask whether those patterns plausibly reflect social reality:
+
+</p><dl style="margin-left: 40px;"><dd>The world is in reality divided into two main kinds of people. One kind is motivated exclusively by the desire for wealth, power, and prestige. These people have no affiliative dispositions whatsoever. Moreover, they are disagreeable, emotionally unstable, undisciplined, and narrow minded. The second kind of people, in contrast, have almost no desire for wealth, power, and prestige. They are animated by the purest and most self-forgetful dispositions for nurturing kin and helping non-kin. Moreover, they are agreeable, emotionally stable, conscientious, and open-minded. Life consists in a series of clear-cut confrontations between these two kinds of people. Fortunately, the second set almost always wins, and lives happily ever after. This is reality, and novels do nothing except depict this reality in a true and faithful way.
+</dd></dl><div style="margin-left: 40px;">In our view, this alternative hypothesis fails of conviction. The novels do contain a vast fund of realistic social depiction and profound psychological analysis. In their larger imaginative structures, though, the novels evidently do not just represent human nature; they evoke certain impulses of human nature. Vicarious participation in the novel stirs up the reader&#39;s impulses to derogate dominance in others and to affirm one&#39;s identity as a positive, contributing member of his or her social group. It may not be too much of a leap to suggest that the emotional impulses aroused by the novel carry over when the novel is put down, actually encouraging people to suppress dominance and cooperate with others in real life.<br /></div><p>This agrees a lot with William Flesch&#39;s <em>Comeuppance</em>, but like it focuses too much on group selection, instead of individual selection, pressures.&#0160; As I suggested <a href="http://www.overcomingbias.com/2009/01/why-fiction-lies.html">ten days ago</a>, </p><div style="margin-left: 40px;">Both religion and fiction serve to reassure our associates that we will
+be nice.&#0160; In addition to letting us show we can do hard things, and
+that we are tied to associates by doing the same things, religious
+beliefs show we expect the not nice to be punished by supernatural
+powers, and our favorite fiction shows the sort of people we think are
+heroes and villains, how often they are revealed or get their due
+reward, and so on.<br /></div><p>Hat tip to Fortune Elkins.</p></div>
+
+</content>
+
+
+    </entry>
+    <entry>
+        <title>Justified Expectation of Pleasant Surprises</title>
+        <link rel="alternate" type="text/html" href="http://www.overcomingbias.com/2009/01/vague-hopes.html" />
+        <link rel="replies" type="text/html" href="http://www.overcomingbias.com/2009/01/vague-hopes.html" thr:count="34" thr:updated="2009-01-16T22:14:11-05:00" />
+        <id>tag:typepad.com,2003:post-61388720</id>
+        <published>2009-01-15T02:26:51-05:00</published>
+        <updated>2009-01-16T22:14:11-05:00</updated>
+        <summary>Previously in series: Eutopia is Scary I recently tried playing a computer game that made a major fun-theoretic error. (At least I strongly suspect it&#39;s an error, though they are game designers and I am not.)The game showed me -...</summary>
+        <author>
+            <name>Eliezer Yudkowsky</name>
+        </author>
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Future" />
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Morality" />
+        
+        
+
+<content type="xhtml" xml:lang="en-US" xml:base="http://www.overcomingbias.com/">
+<div xmlns="http://www.w3.org/1999/xhtml"><p><strong>Previously in series</strong>:&#0160; <a href="http://www.overcomingbias.com/2009/01/scary-eutopia.html">Eutopia is Scary</a>
+
+</p><p>I recently tried playing a computer game that made a major fun-theoretic error.&#0160; (At least I strongly suspect it&#39;s an error, though they are game designers and I am not.)</p><p>The game showed me - right from the start of play - what abilities I could purchase as I increased in level.&#0160; Worse, there were <a href="http://www.overcomingbias.com/2008/12/harmful-options.html">many different choices</a>; still worse, you had to pay a cost in fungible points to acquire them, making you feel like you were losing a resource...&#0160; But today, I&#39;d just like to focus on the problem of telling me, <em>right at the start of the game,</em> about all the nice things that might happen to me later.</p><p>I can&#39;t think of a good experimental result that backs this up; but I&#39;d expect that a pleasant <em>surprise</em> would have a greater hedonic impact, than being told about the same gift in advance.&#0160; Sure, the moment you were first <em>told </em>about the gift would be <em>good news</em>, a moment of pleasure in the moment of being told.&#0160; But you wouldn&#39;t have the gift in hand at that moment, which limits the pleasure.&#0160; And then you have to wait.&#0160; And then when you finally get the gift - it&#39;s pleasant to go from not having it to having it, <em>if</em> you didn&#39;t wait too long; but a surprise would have a larger momentary impact, I would think.</p><p>This particular game had a status screen that showed <em>all</em> my future class abilities <em>at the start of the game</em> - inactive and dark but with full information still displayed.&#0160; From a hedonic standpoint this seems like <em>miserable </em>fun theory.&#0160; All the &quot;good news&quot; is lumped into a gigantic package; the items of news would have much greater impact if encountered separately.&#0160; And then I have to wait a long time to actually acquire the abilities, so I get an extended period of comparing my current weak game-self to all the wonderful abilities I <em>could</em> have but don&#39;t.</p><p>Imagine living in two possible worlds.&#0160; Both worlds are otherwise rich in <a href="http://www.overcomingbias.com/2008/12/high-challenge.html">challenge</a>, <a href="http://www.overcomingbias.com/2008/12/complex-novelty.html">novelty</a>, and other aspects of Fun.&#0160; In both worlds, you get smarter with age and <a href="http://www.overcomingbias.com/2008/12/by-your-own-strength.html">acquire more abilities over time</a>, so that your life is <a href="http://www.overcomingbias.com/2009/01/better-and-better.html">always getting better</a>.</p><p>But in <em>one </em>world, the abilities that come with seniority are openly discussed, hence widely known; you know what you have to look forward to.</p><p>In the <em>other </em>world, anyone older than you will <em>refuse to talk</em> about certain aspects of growing up; you&#39;ll just have to wait and find out.</p><p>I ask you to contemplate - not just which world you might prefer to live in - but how <em>much</em> you might want to live in the second world, rather than the first.&#0160; I would even say that the second world seems more <em>alive;</em> when I imagine living there, my imagined <em>will to live</em> feels stronger.&#0160; I&#39;ve got to stay alive to find out what happens next, right?</p><p>The idea that <em>hope</em> is important to a happy life, is hardly original with me - though I think it might not be emphasized quite <em>enough</em>, on the lists of things people are told they need.</p><p>I <a href="http://www.overcomingbias.com/2007/04/lotteries_a_was.html">don&#39;t agree with buying lottery tickets</a>, but I do think I understand why people do it.&#0160; I remember the times in my life when I had more or less belief that things would improve - that they were heading up in the near-term or mid-term, close enough to anticipate.&#0160; I&#39;m having trouble describing how much of a difference it makes.&#0160; Maybe I don&#39;t <em>need</em> to describe that difference, unless some of my readers have never had any light at the end of their tunnels, or some of my readers have never looked forward and seen darkness.</p><p>If <a href="http://www.overcomingbias.com/2008/07/existential-ang.html">existential angst</a> comes from having at least one deep problem in your life that you aren&#39;t thinking about explicitly, so that the pain which comes from it seems like a natural permanent feature - then the very first question I&#39;d ask, to identify a possible source of that problem, would be, &quot;Do you expect your life to improve in the near or mid-term future?&quot;</p><p>Sometimes I meet people who&#39;ve been run over by life, in much the same way as being run over by a truck.&#0160; Grand catastrophe isn&#39;t necessary to destroy a will to live.&#0160; The extended absence of hope leaves the same sort of wreckage.</p><p>People need hope.&#0160; I&#39;m not the first to say it.</p><p>But I think that the importance of <em>vague hope</em> is underemphasized.</p><p>&quot;Vague&quot; is usually not a compliment among rationalists.&#0160; Hear &quot;vague hopes&quot; and you immediately think of, say, an alternative medicine herbal profusion whose touted benefits are so conveniently unobservable (not to mention experimentally unverified) that people will buy it for anything and then refuse to admit it didn&#39;t work.&#0160; You think of poorly worked-out plans with missing steps, or supernatural prophecies made carefully unfalsifiable, or fantasies of unearned riches, or...</p><p>But you know, generally speaking, our beliefs about the future <em>should</em> be vaguer than our beliefs about the past.&#0160; We just know less about tomorrow than we do about yesterday.</p><p>There are plenty of <em>bad</em> reasons to be vague, all sorts of <em>suspicious </em>reasons to offer nonspecific predictions, but <a href="http://www.overcomingbias.com/2007/12/reversed-stupid.html">reversed stupidity is not intelligence</a>:&#0160; When you&#39;ve eliminated all the ulterior motives for vagueness, your beliefs about the future should <em>still </em>be vague.</p><p>We don&#39;t know much about the future; let&#39;s hope <em>that </em>doesn&#39;t change for <a href="http://www.overcomingbias.com/2009/01/emotional-involvement.html">as long as human emotions stay what they are</a>.&#0160; Of all the poisoned gifts a big mind could give a small one, <a href="http://www.overcomingbias.com/2008/12/devils-offers.html">a walkthrough for the game</a> has to be near the top of the list.</p><p>What we need to maintain our interest in life, is a <em>justified expectation of pleasant surprises.</em>&#0160; (And yes, you can <a href="http://www.overcomingbias.com/2008/10/expected-creati.html">expect a surprise</a> if you&#39;re not logically omniscient.)&#0160; This excludes the herbal profusions, the poorly worked-out plans, and the <a href="http://www.overcomingbias.com/2008/09/excluding-the-s.html">supernatural</a>.&#0160; The best reason for this justified expectation is <em>experience</em>, that is, being pleasantly surprised on a frequent yet irregular basis.&#0160; (If this isn&#39;t happening to you, please file a bug report with the appropriate authorities.)</p><p><em>Vague justifications</em> for believing in a pleasant <em>specific outcome</em> would be the opposite.</p><p>There&#39;s also other dangers of having pleasant hopes that are <em>too specific</em> - even if <em>justified</em>, though more often they aren&#39;t - and I plan to talk about that in the next post.</p><p></p></div>
+
+</content>
+
+
+    </entry>
+    <entry>
+        <title>Disagreement Is Near-Far Bias</title>
+        <link rel="alternate" type="text/html" href="http://www.overcomingbias.com/2009/01/disagreement-is-nearfar-bias.html" />
+        <link rel="replies" type="text/html" href="http://www.overcomingbias.com/2009/01/disagreement-is-nearfar-bias.html" thr:count="25" thr:updated="2009-01-16T15:21:17-05:00" />
+        <id>tag:typepad.com,2003:post-61326928</id>
+        <published>2009-01-14T10:30:00-05:00</published>
+        <updated>2009-01-16T15:21:19-05:00</updated>
+        <summary>Back in November I read this Science review by Nira Liberman and Yaacov Trope on their awkwardly-named &quot;Construal level theory&quot;, and wrote a post I estimated &quot;to be the most dense with useful info on identifying our biases I&#39;ve ever...</summary>
+        <author>
+            <name>Robin Hanson</name>
+        </author>
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Disagreement" />
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Psychology" />
+        
+        
+
+<content type="xhtml" xml:lang="en-US" xml:base="http://www.overcomingbias.com/">
+<div xmlns="http://www.w3.org/1999/xhtml"><p>Back in November I read <a href="http://www.sciencemag.org/cgi/reprint/322/5905/1201.pdf">this</a> Science review by Nira Liberman and Yaacov Trope on their awkwardly-named &quot;<a href="http://www.psych-it.com.au/Psychlopedia/article.asp?id=79">Construal level theory</a>&quot;, and wrote <a href="http://www.overcomingbias.com/2008/11/abstractdistant.html">a post</a> I estimated &quot;to be the most dense with useful info on identifying our biases I&#39;ve ever written&quot;:
+</p><dl><dd><strong>[NEAR] </strong><em>All of these bring each other more to mind: </em>here, now, me, us; trend-deviating likely real local events; concrete, context-dependent, unstructured, detailed, goal-irrelevant incidental features; feasible safe acts; secondary local concerns; socially close folks with unstable traits.&#0160; <br /><br />
+
+</dd><dd><strong>[FAR] </strong><em>Conversely, all these bring each other more to mind: </em>there, then, them; trend-following unlikely hypothetical global events; abstract, schematic, context-freer, core, coarse, goal-related features; desirable risk-taking acts, central global symbolic concerns, confident predictions, polarized evaluations, socially distant people with stable traits.&#0160; 
+</dd></dl><p>Since then I&#39;ve become even more impressed with it, as it explains most biases I know and care about, including muddled thinking about economics and the future.&#0160; For example, Ross&#39;s famous &quot;<a href="http://en.wikipedia.org/wiki/Fundamental_attribution_error">fundamental attribution error</a>&quot; is a trivial application.&#0160; </p><p>
+The key idea is that when we consider the same thing from near versus far, different features become salient, leading our minds to different conclusions.&#0160; This is now my best account of disagreement.&#0160; We disagree because we explain our own conclusions via detailed context (e.g., arguments, analysis, and evidence), and others&#39; conclusions via coarse stable traits (e.g., demographics, interests, biases).&#0160; While we know abstractly that we also have stable relevant traits, and they have detailed context, we simply assume we have taken that into account, when we have in fact done no such thing.&#0160; </p><p>
+For example, imagine I am well-educated and you are not, and I argue for the value of education and you argue against it.&#0160; I find it easy to dismiss your view as denigrating something you do not have, but I do not think it plausible I am mainly just celebrating something I do have.&#0160; I can see all these detailed reasons for my belief, and I cannot easily see and appreciate your detailed reasons.&#0160; </p><p>
+And this is the key error: our minds often assure us that they have taken certain factors into account when they have done no such thing.&#0160; I tell myself that of course I realize that I might be biased by my interests; I&#39;m not that stupid.&#0160; So I must have already taken that possible bias into account, and so my conclusion must be valid even after correcting for that bias.&#0160; But in fact I haven&#39;t corrected for it much at all; I&#39;ve just assumed that I did so.</p></div>
+
+</content>
+
+
+    </entry>
+    <entry>
+        <title>She has joined the Conspiracy</title>
+        <link rel="alternate" type="text/html" href="http://www.overcomingbias.com/2009/01/kimiko.html" />
+        <link rel="replies" type="text/html" href="http://www.overcomingbias.com/2009/01/kimiko.html" thr:count="17" thr:updated="2009-01-15T18:05:38-05:00" />
+        <id>tag:typepad.com,2003:post-61260822</id>
+        <published>2009-01-13T14:48:22-05:00</published>
+        <updated>2009-01-15T18:05:38-05:00</updated>
+        <summary>I have no idea whether I had anything to do with this.</summary>
+        <author>
+            <name>Eliezer Yudkowsky</name>
+        </author>
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Arts" />
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Humor" />
+        
+        
+
+<content type="xhtml" xml:lang="en-US" xml:base="http://www.overcomingbias.com/">
+<div xmlns="http://www.w3.org/1999/xhtml"><p><a href="http://dresdencodak.com/cartoons/dc_059.html"><img alt="Kimiko" border="0" class="at-xid-6a00d8341c6a2c53ef010536c21d63970b image-full " height="227" src="http://robinhanson.typepad.com/.a/6a00d8341c6a2c53ef010536c21d63970b-800wi" style="margin: 5px;" title="Kimiko" width="279" /></a></p><p> I have no idea whether I had anything to do with this.</p></div>
+</content>
+
+
+    </entry>
+    <entry>
+        <title>Building Weirdtopia</title>
+        <link rel="alternate" type="text/html" href="http://www.overcomingbias.com/2009/01/weirdtopia.html" />
+        <link rel="replies" type="text/html" href="http://www.overcomingbias.com/2009/01/weirdtopia.html" thr:count="50" thr:updated="2009-01-16T18:22:48-05:00" />
+        <id>tag:typepad.com,2003:post-61236322</id>
+        <published>2009-01-12T15:35:27-05:00</published>
+        <updated>2009-01-16T18:22:49-05:00</updated>
+        <summary>Followup to: Eutopia is Scary&quot;Two roads diverged in the woods. I took the one less traveled, and had to eat bugs until Park rangers rescued me.&quot; -- Jim Rosenberg Utopia and Dystopia have something in common: they both confirm the...</summary>
+        <author>
+            <name>Eliezer Yudkowsky</name>
+        </author>
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Arts" />
+        <category scheme="http://www.sixapart.com/ns/types#category" term="Future" />
+        
+        
+
+<content type="xhtml" xml:lang="en-US" xml:base="http://www.overcomingbias.com/">
+<div xmlns="http://www.w3.org/1999/xhtml"><p><strong>Followup to</strong>:&#0160; <a href="http://www.overcomingbias.com/2009/01/scary-eutopia.html">Eutopia is Scary</a></p><p style="margin-left: 40px;">&quot;Two roads diverged in the woods.&#0160; I took the one less traveled, and had to eat bugs until Park rangers rescued me.&quot;<br />&#0160;&#0160;&#0160; &#0160;&#0160;&#0160; -- Jim Rosenberg
+
+</p><p>Utopia and Dystopia have something in common: they both confirm the moral sensibilities you started with.&#0160; Whether the world is a libertarian utopia of the non-initiation of violence and everyone free to start their own business, or a hellish dystopia of government regulation and intrusion - you might like to find yourself in the first, and hate to find yourself in the second; but either way you nod and say, &quot;Guess I was right all along.&quot;<br />
+
+</p><p>So as an exercise in creativity, try writing them down side by
+side:&#0160; Utopia, Dystopia, and Weirdtopia.&#0160; The zig, the zag and the zog.</p><p>I&#39;ll start off with a worked example for <em>public understanding of science:</em></p><ul>
+
+<li><em>Utopia:</em>&#0160; Most people have the equivalent of an undergrad degree in something; <em>everyone</em> reads the popular science books (and they&#39;re <em>good </em>books); everyone over the age of nine understands evolutionary theory and Newtonian physics; scientists who make major contributions are publicly adulated like rock stars.</li>
+<li><em>Dystopia:</em>&#0160; Science is considered boring and possibly treasonous; public discourse elevates religion or crackpot theories; stem cell research is banned.</li>
+<li><em>Weirdtopia:</em>&#0160; <a href="http://www.overcomingbias.com/2008/03/spread-science.html">Science is kept secret to avoid spoiling the surprises</a>; no public discussion but intense private pursuit; cooperative ventures surrounded by fearsome initiation rituals because that&#39;s what it takes for people to feel like they&#39;ve actually learned a Secret of the Universe and be satisfied; someone you meet may only know extremely basic science, but they&#39;ll have personally done revolutionary-level work in it, just like you.&#0160; Too bad you can&#39;t compare notes.</li>
+
+</ul>
+
+<p><a href="http://www.overcomingbias.com/2008/06/against-disclai.html">Disclaimer</a> 1:&#0160; Not every sensibility we have is necessarily <em>wrong.</em>&#0160; Originality is a goal of literature, not science; sometimes it&#39;s better to be right than to be new.&#0160; But there are also such things as <a href="http://www.overcomingbias.com/2007/10/cached-thoughts.html">cached thoughts</a>.&#0160; At least in my own case, it turned out that trying to invent a world that went outside my pre-existing sensibilities, did me a world of good.</p><p>Disclaimer 2:&#0160; This method is not universal:&#0160; Not all interesting ideas fit this mold, and not all ideas that fit this mold are good ones.&#0160; Still, it seems like an interesting technique.</p><p>If you&#39;re trying to write science fiction (where originality <em>is</em> a legitimate goal), then you can write down anything nonobvious for Weirdtopia, and you&#39;re done.</p><p>If you&#39;re trying to do Fun Theory, you have to come up with a Weirdtopia that&#39;s at least <em>arguably-better </em>than Utopia.&#0160; This is harder but also directs you to more interesting regions of the answer space.</p><p>If you can make all your answers <em>coherent</em> with each other, you&#39;ll have quite a story setting on your hands.&#0160; (Hope you know how to handle characterization, dialogue, description, conflict, and all that other stuff.)</p><p>Here&#39;s some partially completed challenges, where I wrote down a Utopia and a Dystopia (according to the moral sensibilities I started with before <em>I</em> did this exercise), but inventing a (better) Weirdtopia is left to the reader.</p><p><em>Economic...</em></p><ul>
+
+<li><em>Utopia:</em>&#0160; The world is flat and ultra-efficient.&#0160; Prices fall as standards of living rise, thanks to economies of scale.&#0160; Anyone can easily start their own business and most people do.&#0160; Everything is done in the right place by the right person under Ricardo&#39;s Law of Comparative Advantage.&#0160; Shocks are efficiently absorbed by the risk capital that insured them.</li>
+<li><em>Dystopia:</em>&#0160; Lots of trade barriers and subsidies; corporations exploit the regulatory systems to create new barriers to entry; dysfunctional financial systems with poor incentives and lots of unproductive investments; rampant agent failures and systemic vulnerabilities; standards of living flat or dropping.</li>
+<li><em>Weirdtopia:</em> _____</li>
+
+</ul>
+<p><em>Sexual...</em></p><ul>
+<li><em>Utopia:</em>&#0160; Sexual mores straight out of a Spider Robinson novel:&#0160; Sexual jealousy has been eliminated; no one is embarrassed about what turns them on; universal tolerance and respect; everyone is bisexual, poly, and a switch; total equality between the sexes; no one would look askance on sex in public any more than eating in public, so long as the participants cleaned up after themselves.</li>
+<li><em>Dystopia:</em>&#0160; 10% of women have never had an orgasm.&#0160; States adopt laws to ban gay marriage.&#0160; Prostitution illegal.</li>
+
+<li><em>Weirdtopia:</em> _____</li>
+</ul>
+<p><em>Governmental...</em></p><ul>
+<li><em>Utopia:</em>&#0160; Non-initiation of violence is the chief rule. Remaining public issues are settled by democracy:&#0160; Well reasoned public debate in which all sides get a free voice, followed by direct or representative majority vote.&#0160; Smoothly interfunctioning Privately Produced Law, which coordinate to enforce a very few global rules like &quot;no slavery&quot;.</li>
+
+<li><em>Dystopia:</em>&#0160; Tyranny of a single individual or oligarchy.&#0160; Politicians with effective locks on power thanks to corrupted electronic voting systems, voter intimidation, voting systems designed to create coordination problems.&#0160; Business of government is unpleasant and not very competitive; hard to move from one region to another.</li>
+<li><em>Weirdtopia:</em> _____</li>
+</ul>
+<p><em>Technological...</em></p><ul>
+
+<li><em>Utopia:</em>&#0160; All Kurzweilian prophecies come true simultaneously.&#0160; Every pot contains a chicken, a nanomedical package, a personal spaceship, a superdupercomputer, amazing video games, and a pet AI to help you use it all, plus a pony.&#0160; Everything is designed by Apple.</li>
+<li><em>Dystopia:</em>&#0160; Those damned fools in the government banned everything more complicated than a lawnmower, and we couldn&#39;t use our lawnmowers after Peak Oil hit.</li>
+<li><em>Weirdtopia:</em>&#0160; _____</li>
+
+</ul>
+<p><em>Cognitive...</em></p><ul>
+<li><em>Utopia:</em>&#0160; Brain-computer implants for everyone!&#0160; You can do whatever you like with them, it&#39;s all voluntary and the dangerous buttons are clearly labeled.&#0160; There are AIs around that are way more powerful than you; but they don&#39;t hurt you unless you ask to be hurt, sign an informed consent release form and click &quot;Yes&quot; three times.</li>
+
+<li><em>Dystopia:</em>&#0160; The first self-improving AI was poorly designed, everyone&#39;s dead and the universe is being turned into paperclips.&#0160; Or the augmented humans hate the normals.&#0160; Or augmentations make you go nuts.&#0160; Or the darned government banned everything again, and people are still getting Alzheimers due to lack of stem-cell research.</li>
+<li><em>Weirdtopia:</em>&#0160; _____</li>
+</ul>
+<p></p></div>
+
+</content>
+
+
+    </entry>
+ 
+</feed>
+<!-- ph=1 -->
+<!-- nhm:dynamic-ssi -->
+  
