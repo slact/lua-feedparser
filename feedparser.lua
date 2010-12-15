@@ -55,6 +55,14 @@ local function parse_entries(entries_el, format_str, base)
 						type=el:getAttr('type')
 					})
 				end
+			
+			--rss enclosures
+			elseif format_str == 'rss' and tag=='enclosure' then
+				tinsert(entry.enclosures, {
+					url=el:getAttr('url'),
+					length=el:getAttr('length'),
+					type=el:getAttr('type')
+				})
 				
 			--summary
 			elseif	(format_str=='atom' and tag=='summary') or
