@@ -1,5 +1,5 @@
 local XMLElement = require "feedparser.XMLElement"
-require "lxp.lom"
+local lom = require "lxp.lom"
 
 local function req(a, b)
 	local t = type(a)
@@ -51,13 +51,13 @@ end
 
 print "consistency"
 local xml = assert(filecontents("tests/xml/simple.xml"))
-local l= assert(lxp.lom.parse(xml))
+local l= assert(lom.parse(xml))
 local root = assert(XMLElement.new(l))
-assert(req(root, XMLElement.new(lxp.lom.parse(root:getXML()))))
+assert(req(root, XMLElement.new(lom.parse(root:getXML()))))
 
 local feedxml = assert(filecontents("tests/xml/simple.xml"))
-local feedroot = XMLElement.new(assert(lxp.lom.parse(xml)))
-assert(req(feedroot, XMLElement.new(lxp.lom.parse(feedroot:getXML()))))
+local feedroot = XMLElement.new(assert(lom.parse(xml)))
+assert(req(feedroot, XMLElement.new(lom.parse(feedroot:getXML()))))
 
 print "children"
 local kids = root:getChildren('foo')
