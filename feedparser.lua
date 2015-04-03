@@ -7,10 +7,10 @@ local pairs, ipairs = pairs, ipairs
 
 --- feedparser, similar to the Universal Feed Parser for python, but a good deal weaker.
 -- see http://feedparser.org for details about the Universal Feed Parser
-module('feedparser')
-
-_DESCRIPTION = "RSS and Atom feed parser"
-_VERSION = "feedparser 0.7"
+local feedparser= {
+	_DESCRIPTION = "RSS and Atom feed parser",
+	_VERSION = "feedparser 0.71"
+}
 
 local blanky = XMLElement.new() --useful in a whole bunch of places
 
@@ -346,7 +346,7 @@ end
 -- @return table with parsed feed info, or nil, error_message on error. 
 --		the format of the returned table is much like that on http://feedparser.org, with the major difference that 
 --		dates are parsed into unixtime. Most other fields are very much the same.
-function parse(xml_string, base_url)
+function feedparser.parse(xml_string, base_url)
 	local lom, err = LOM.parse(xml_string)
 	if not lom then return nil, "couldn't parse xml. lxp says: " .. err or "nothing" end
 	local rootElement = XMLElement.new(lom)
@@ -359,3 +359,11 @@ function parse(xml_string, base_url)
 		return nil, "unknown feed format"
 	end
 end
+
+--for the sake of backwards-compatibility, feedparser will export a global reference for lua < 5.3
+if _VERSION:sub(-3) < "5.3" then
+	_G.feedparser=feedparser
+end
+
+
+return feedparser

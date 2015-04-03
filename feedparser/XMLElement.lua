@@ -1,12 +1,14 @@
 -- Copyright 2009 Leo Ponomarev. Distributed under the BSD Licence. 
+-- updated for module-free world of lua 5.3 on April 2 2015
 -- Not documented at all, but not interesting enough to warrant documentation anyway.
 local setmetatable, pairs, ipairs, type, getmetatable, tostring, error = setmetatable, pairs, ipairs, type, getmetatable, tostring, error
 local table, string = table, string
-module('feedparser.XMLElement')
+
+local XMLElement={}
 
 local mt
 
-new = function(lom)
+XMLElement.new = function(lom)
 	return setmetatable({lom=lom or {}}, mt)
 end
 
@@ -112,7 +114,7 @@ mt ={ __index = {
 		local res = {}
 		for i, node in ipairs(self.lom) do 
 			if filter(filter_thing, node) then
-				table.insert(res, type(node)=='table' and new(node) or node)
+				table.insert(res, type(node)=='table' and XMLElement.new(node) or node)
 			end
 		end
 		return res
@@ -123,7 +125,7 @@ mt ={ __index = {
 		local function descendants(lom)
 			for i, child in ipairs(lom) do 
 				if filter(filter_thing, child) then
-					table.insert(res, type(child)=='table' and new(child) or child)
+					table.insert(res, type(child)=='table' and XMLElement.new(child) or child)
 					if type(child)=='table' then descendants(child) end
 				end
 			end
@@ -136,7 +138,7 @@ mt ={ __index = {
 	getChild = function(self, filter_thing)
 		for i, node in ipairs(self.lom) do 
 			if filter(filter_thing, node) then
-				return type(node)=='table' and new(node) or node
+				return type(node)=='table' and XMLElement.new(node) or node
 			end
 		end
 	end,
@@ -145,3 +147,5 @@ mt ={ __index = {
 		return self.lom.tag
 	end
 }}
+
+return XMLElement

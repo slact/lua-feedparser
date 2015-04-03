@@ -27,13 +27,19 @@ OTHER DEALINGS IN THE SOFTWARE.
 -- Author: Diego Nehab
 -- RCS ID: $Id: url.lua,v 1.38 2006/04/03 04:45:42 diego Exp $
 -----------------------------------------------------------------------------
+    
+    
+-- updated for a module()-free world of 5.3 by slact
+
+
 local string = require("string")
 local base = _G
 local table = require("table")
-module("feedparser.url")  --- Thanks, MIT Licence!
-_VERSION = "URL 1.0.1"
 
-function escape(s)
+local Url={}
+Url._VERSION = "URL 1.0.2"
+
+function Url.escape(s)
     return string.gsub(s, "([^A-Za-z0-9_])", function(c)
         return string.format("%%%02x", string.byte(c))
     end)
@@ -59,7 +65,7 @@ local function protect_segment(s)
 	end)
 end
 
-function unescape(s)
+function Url.unescape(s)
     return string.gsub(s, "%%(%x%x)", function(hex)
         return string.char(base.tonumber(hex, 16))
     end)
@@ -105,7 +111,7 @@ end
 -- Obs:
 --   the leading '/' in {/<path>} is considered part of <path>
 -----------------------------------------------------------------------------
-function parse(url, default)
+function Url.parse(url, default)
     -- initialize default parameters
     local parsed = {}
     for i,v in base.pairs(default or parsed) do parsed[i] = v end
@@ -161,9 +167,9 @@ end
 -- Returns
 --   a stringing with the corresponding URL
 -----------------------------------------------------------------------------
-function build(parsed)
-    local ppath = parse_path(parsed.path or "")
-    local url = build_path(ppath)
+function Url.build(parsed)
+    local ppath = Url.parse_path(parsed.path or "")
+    local url = Url.build_path(ppath)
     if parsed.params then url = url .. ";" .. parsed.params end
     if parsed.query then url = url .. "?" .. parsed.query end
 	local authority = parsed.authority
@@ -187,14 +193,14 @@ function build(parsed)
 end
 
 -- Builds a absolute URL from a base and a relative URL according to RFC 2396
-function absolute(base_url, relative_url)
+function Url.absolute(base_url, relative_url)
     if base.type(base_url) == "table" then
         base_parsed = base_url
-        base_url = build(base_parsed)
+        base_url = Url.build(base_parsed)
     else
-        base_parsed = parse(base_url)
+        base_parsed = Url.parse(base_url)
     end
-    local relative_parsed = parse(relative_url)
+    local relative_parsed = Url.parse(relative_url)
     if not base_parsed then return relative_url
     elseif not relative_parsed then return base_url
     elseif relative_parsed.scheme then return relative_url
@@ -215,18 +221,18 @@ function absolute(base_url, relative_url)
                     relative_parsed.path)
             end
         end
-        return build(relative_parsed)
+        return Url.build(relative_parsed)
     end
 end
 
 -- Breaks a path into its segments, unescaping the segments
-function parse_path(path)
+function Url.parse_path(path)
 	local parsed = {}
 	path = path or ""
 	--path = string.gsub(path, "%s", "")
 	string.gsub(path, "([^/]+)", function (s) table.insert(parsed, s) end)
 	for i = 1, #parsed do
-		parsed[i] = unescape(parsed[i])
+		parsed[i] = Url.unescape(parsed[i])
 	end
 	if string.sub(path, 1, 1) == "/" then parsed.is_absolute = 1 end
 	if string.sub(path, -1, -1) == "/" then parsed.is_directory = 1 end
@@ -234,7 +240,7 @@ function parse_path(path)
 end
 
 -- Builds a path component from its segments, escaping protected characters.
-function build_path(parsed, unsafe)
+function Url.build_path(parsed, unsafe)
 	local path = ""
 	local n = #parsed
 	if unsafe then
@@ -259,3 +265,5 @@ function build_path(parsed, unsafe)
 	if parsed.is_absolute then path = "/" .. path end
 	return path
 end
+
+return Url

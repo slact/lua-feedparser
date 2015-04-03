@@ -2,7 +2,8 @@ local difftime, time, date = os.difftime, os.time, os.date
 local format = string.format
 local tremove, tinsert = table.remove, table.insert
 local pcall, pairs, ipairs, tostring, tonumber, type, setmetatable = pcall, pairs, ipairs, tostring, tonumber, type, setmetatable
-module('feedparser.dateparser')
+
+local dateparser={}
 
 --we shall use the host OS's time conversion facilities. Dealing with all those leap seconds by hand can be such a bore.
 local unix_timestamp
@@ -20,7 +21,7 @@ local formats = {} -- format names
 local format_func = setmetatable({}, {__mode='v'})  --format functions
 
 ---register a date format parsing function
-function register_format(format_name, format_function)
+function dateparser.register_format(format_name, format_function)
 	if type(format_name)~="string" or type(format_function)~='function' then return nil, "improper arguments, can't register format handler" end
 
 	local found
@@ -38,13 +39,13 @@ function register_format(format_name, format_function)
 end
 
 ---register a date format parsing function
-function unregister_format(format_name)
+function dateparser.unregister_format(format_name)
 	if type(format_name)~="string" then return nil, "format name must be a string" end
 	formats[format_name]=nil
 end
 
 ---return the function responsible for handling format_name date strings
-function get_format_function(format_name)
+function dateparser.get_format_function(format_name)
 	return formats[format_name] or nil, ("format %s not registered"):format(format_name)
 end
 
@@ -52,7 +53,7 @@ end
 --@param str date string
 --@param date_format optional date format name, if known
 --@return unix timestamp if str can be parsed; nil, error otherwise.
-function parse(str, date_format)
+function dateparser.parse(str, date_format)
 	local success, res, err
 	if date_format then 
 		if not formats[date_format] then return 'unknown date format: ' .. tostring(date_format) end
@@ -66,7 +67,7 @@ function parse(str, date_format)
 	return success and res
 end
 
-register_format('W3CDTF', function(rest)
+dateparser.register_format('W3CDTF', function(rest)
 	
 	local year, day_of_year, month, day, week
 	local hour, minute, second, second_fraction, offset_hours
@@ -138,7 +139,7 @@ do
 	
 	local month_val = {Jan=1, Feb=2, Mar=3, Apr=4, May=5, Jun=6, Jul=7, Aug=8, Sep=9, Oct=10, Nov=11, Dec=12}
 	
-	register_format('RFC2822', function(rest)
+	dateparser.register_format('RFC2822', function(rest)
 
 		local year, month, day, day_of_year, week_of_year, weekday
 		local hour, minute, second, second_fraction, offset_hours
@@ -184,5 +185,8 @@ do
 	end)
 end
 
-register_format('RFC822', formats.RFC2822) --2822 supercedes 822, but is not a strict superset. For our intents and purposes though, it's perfectly good enough
-register_format('RFC3339', formats.W3CDTF) --RFC3339 is a subset of W3CDTF
+dateparser.register_format('RFC822', formats.RFC2822) --2822 supercedes 822, but is not a strict superset. For our intents and purposes though, it's perfectly good enough
+dateparser.register_format('RFC3339', formats.W3CDTF) --RFC3339 is a subset of W3CDTF
+
+
+return dateparser

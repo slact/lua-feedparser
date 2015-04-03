@@ -11,6 +11,10 @@ you may consult his site for reference
 ( http://feedparser.org/docs/reference.html )
 
 Usage:
+local feedparser=require("feedparser")
+-- note that for Lua < 5.3, the require exports a global "feedparser"
+-- In 5.3 and later, it does not.
+
 local parsed = feedparser.parse(xml_string, optional_base_url)
 
 --parsed will be a table of elements containing more or less:
@@ -91,7 +95,7 @@ entries[i].comments
 entries[i].licence
 
 namespaces
-encoding 		--this is pretty important, so will be implemented sooner than anything else
+encoding 		--this is pretty important, so will be implemented sooner than anything else, if anyone asks for it.
 status
 gref
 etag

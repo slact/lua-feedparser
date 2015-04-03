@@ -1,5 +1,13 @@
-require "feedparser"
---this is by no means comprehensice
+local feedparser=require "feedparser"
+--this is by no means comprehensive
+
+if _VERSION:sub(-3) < "5.3" then
+  print("using " .. _VERSION .. ", a feedparser global is expected.")
+  assert(_G.feedparser==feedparser)
+else
+  print("using " .. _VERSION .. ", feedparser should not set any globals.")
+  assert(_G.feedparser==nil)
+end
 
 local function filecontents(path)
 	local f = io.open(path, 'r')
@@ -7,8 +15,7 @@ local function filecontents(path)
 	local res = f:read('*a')
 	f:close()
 	return res
-end 
-
+end
 
 print("atom")
 local res = assert(feedparser.parse(assert(filecontents("tests/feeds/atom1.0-1.xml"))))
