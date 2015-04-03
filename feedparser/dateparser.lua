@@ -90,9 +90,6 @@ register_format('W3CDTF', function(rest)
 		second_fraction, alt_rest = rest:match("^%.(%d+)(.*)$")
 		if second_fraction then 
 			rest=alt_rest 
-			second = tonumber(second .. "." .. second_fraction)
-		else
-			second=tonumber(second)
 		end
 		if rest=="Z" then 
 			rest=""
@@ -117,7 +114,12 @@ register_format('W3CDTF', function(rest)
 		sec = tonumber(second) or 0,
 		isdst = false
 	}
-	return unix_timestamp(d, (offset_hours or 0) * 3600)
+	local t = unix_timestamp(d, (offset_hours or 0) * 3600)
+	if second_fraction then
+		return t + tonumber("0."..second_fraction)
+	else
+		return t
+	end
 end)
 
 
