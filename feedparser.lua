@@ -112,7 +112,10 @@ local function parse_entries(entries_el, format_str, base)
 				local author_url = (el:getChild('url') or blanky):getText()
 				if author_url and author_url ~= "" then entry.author_detail.href=resolve(author_url, rebase(el:getChild('url'), el_base)) end		
 			
-			elseif tag=='category' or tag=='dc:subject' then 
+			elseif tag=='category' then
+				entry.category = (el:getChild('term') or el):getText()
+			
+			elseif tag=='dc:subject' then
 				--todo
 			
 			elseif tag=='source' then
